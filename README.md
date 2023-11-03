@@ -1,3 +1,12 @@
+
+
+
+
+
+https://github.com/MikeGillotti/Scheduler/assets/38792737/4f52ee46-b244-499d-b5ec-6f97f029e2c9
+
+
+
 Scheduler - School Project
 
 The application is an appointment scheduler and manager.
