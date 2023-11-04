@@ -10,11 +10,10 @@ https://github.com/MikeGillotti/Scheduler/assets/38792737/38a57fad-70f1-4dd3-a33
 
 
 
-Scheduler - School Project
+Appointment Scheduler
 
-The application is an appointment scheduler and manager.
 The application has the ability to add, modify, and delete customers and appointments.
-The application generates the following reports, appointment count by type and month, and schedules by customers and contacts.
+It also has the ability to generate the following reports, appointment count by type and month, and schedules by customers and contacts.
 
 Directions:
 Login by entering a valid Username and Password
