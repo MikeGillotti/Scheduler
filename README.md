@@ -4,13 +4,12 @@
 
 
 
-## Demo
 https://github.com/MikeGillotti/Scheduler/assets/38792737/38a57fad-70f1-4dd3-a332-8e97dd5a78a9
 
 
 
 
-Appointment Scheduler
+# Appointment Scheduler
 
 The application has the ability to add, modify, and delete customers and appointments.
 
